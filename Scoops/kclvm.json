@@ -11,15 +11,5 @@
     },
     "homepage": "https://kcl-lang.io",
     "license": "Apache License 2.0",
-    "checkver": {
-        "github": "https://github.com/KusionStack/KCLVM"
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/KusionStack/KCLVM/releases/download/v$version/kclvm-v$version-windows.zip"
-            }
-        }
-    },
     "description": "Codify and deliver intentions to Kubernetes and Clouds."
 }
