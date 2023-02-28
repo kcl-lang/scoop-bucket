@@ -9,7 +9,7 @@
             "hash": "md5:e3055c9423d6d2c6ccccce54e73b857d"
         }
     },
-    "homepage": "https://kcl-lang.io",
+    "homepage": "https://github.com/KusionStack/KCLVM",
     "license": "Apache License 2.0",
-    "description": "Codify and deliver intentions to Kubernetes and Clouds."
+    "description": "KCL: A Constraint-based Record & Functional Language"
 }
