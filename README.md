@@ -1,7 +1,7 @@
 # KCL scoop-bucket
 
 ```powershell
-scoop install kclvm
+scoop install kcl-lang/kclvm
 ```
 
 ## Reference

@@ -1,0 +1,25 @@
+{
+    "version": "0.4.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/KusionStack/KCLVM/releases/download/v0.4.5/kclvm-v0.4.5-windows.zip",
+            "bin": [
+                "kcl.exe"
+            ],
+            "hash": "md5:e3055c9423d6d2c6ccccce54e73b857d"
+        }
+    },
+    "homepage": "https://kcl-lang.io",
+    "license": "Apache License 2.0",
+    "checkver": {
+        "github": "https://github.com/KusionStack/KCLVM"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/KusionStack/KCLVM/releases/download/v$version/kclvm-v$version-windows.zip"
+            }
+        }
+    },
+    "description": "Codify and deliver intentions to Kubernetes and Clouds."
+}
