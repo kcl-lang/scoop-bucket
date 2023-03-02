@@ -4,11 +4,19 @@
         "64bit": {
             "url": "https://github.com/KusionStack/KCLVM/releases/download/v0.4.5/kclvm-v0.4.5-windows.zip",
             "hash": "md5:e3055c9423d6d2c6ccccce54e73b857d",
-            "extract_dir": "kclvm-windows"
+            "extract_dir": "kclvm-v0.4.5-windows"
         }
     },
     "env_add_path": "bin",
     "homepage": "https://github.com/KusionStack/KCLVM",
     "license": "Apache License 2.0",
-    "description": "KCL: A Constraint-based Record & Functional Language"
+    "description": "KCL: A Constraint-based Record & Functional Language",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/KusionStack/KCLVM/releases/download/v$version/kclvm-v$version-windows.zip",
+                "extract_dir": "kclvm-windows"
+            }
+        }
+    }
 }
