@@ -4,16 +4,7 @@
         "64bit": {
             "url": "https://github.com/KusionStack/KCLVM/releases/download/v0.4.5/kclvm-v0.4.5-windows.zip",
             "bin": [
-                "kcl.exe",
-                "kclvm.exe",
-                "kclvm-cli.exe",
-                "kcl-vet.exe",
-                "kcl-test.exe",
-                "kcl-plugin.exe",
-                "kcl-lint.exe",
-                "kcl-language-server.exe",
-                "kcl-fmt.exe",
-                "kcl-doc.exe"
+                "kcl.exe"
             ],
             "hash": "md5:e3055c9423d6d2c6ccccce54e73b857d"
         }
