@@ -2,8 +2,8 @@
     "version": "0.5.0-alpha.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/KusionStack/KCLVM/releases/download/v0.5.0-alpha.3/kclvm-v0.5.0-alpha.3-windows.zip",
-            "hash": "md5:734483cc03787006374e231c397d3e7b"
+            "url": "https://github.com/KusionStack/KCLVM/releases/download/v0.5.0-alpha.4/kclvm-v0.5.0-alpha.4-windows.zip",
+            "hash": "md5:35edd24f60a1e5cf043d632fc14f4cb4"
         }
     },
     "env_add_path": "bin",
