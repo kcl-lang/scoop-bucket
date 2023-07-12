@@ -1,9 +1,9 @@
 {
-    "version": "0.5.0-beta.1",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kcl-lang/kcl/releases/download/v0.5.0-beta.1/kclvm-v0.5.0-beta.1-windows.zip",
-            "hash": "md5:4a332dcb433425dc27994f61630ba104"
+            "url": "https://github.com/kcl-lang/kcl/releases/download/v0.5.0/kclvm-v0.5.0-windows.zip",
+            "hash": "md5:6228be0199bb7e467b2df1187f2e3e26"
         }
     },
     "env_add_path": "bin",
