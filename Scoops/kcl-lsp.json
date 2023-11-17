@@ -1,0 +1,15 @@
+{
+    "version": "0.7.0-alpha.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kcl-lang/kcl/releases/download/v0.7.0-alpha.2/kclvm-v0.7.0-alpha.2-windows.zip",
+            "bin": [
+                "bin/kcl-language-server.exe"
+            ],
+            "hash": "md5:698db6ce0a648e9b2ce2ba76f5513b80"
+        }
+    },
+    "homepage": "http://github.com/kcl-lang/kcl",
+    "license": "Apache License 2.0",
+    "description": "KCL Command Line Interface"
+}
