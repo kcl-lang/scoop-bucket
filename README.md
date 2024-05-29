@@ -5,6 +5,7 @@
 ```powershell
 scoop bucket add kcl-lang https://github.com/kcl-lang/scoop-bucket.git
 scoop install kcl-lang/kcl
+scoop install kcl-lang/kcl-lsp
 ```
 
 ## Reference
