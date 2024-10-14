@@ -1,12 +1,12 @@
 {
-    "version": "0.9.0",
+    "version": "0.10.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kcl-lang/kcl/releases/download/v0.10.0/kclvm-v0.10.0-windows.zip",
+            "url": "https://github.com/kcl-lang/kcl/releases/download/v0.10.3/kclvm-v0.10.3-windows.zip",
             "bin": [
                 "bin/kcl-language-server.exe"
             ],
-            "hash": "md5:b9af918111822b40aa187a2adedb71aa"
+            "hash": "md5:2847df7cf35b33819f808ec238846bfc"
         }
     },
     "homepage": "http://github.com/kcl-lang/kcl",
