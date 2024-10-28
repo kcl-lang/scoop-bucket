@@ -1,19 +1,19 @@
 {
-    "version": "0.10.6",
+    "version": "0.10.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kcl-lang/cli/releases/download/v0.10.6/kcl-v0.10.6-windows-amd64.zip",
+            "url": "https://github.com/kcl-lang/cli/releases/download/v0.10.7/kcl-v0.10.7-windows-amd64.zip",
             "bin": [
                 "kcl.exe"
             ],
-            "hash": "8434ca0ebdf2381b4c8bccd598012b14f744bba256d46f17949902df07d91d8b"
+            "hash": "67b59fa262637d0da657665283c03109892b33b1196709990490f8447f211a7e"
         },
         "arm64": {
-            "url": "https://github.com/kcl-lang/cli/releases/download/v0.10.6/kcl-v0.10.6-windows-arm64.zip",
+            "url": "https://github.com/kcl-lang/cli/releases/download/v0.10.7/kcl-v0.10.7-windows-arm64.zip",
             "bin": [
                 "kcl.exe"
             ],
-            "hash": "8819f9695efe6c2993af0d3704465c1f8788997da5a4869b21fe329cfbb8a291"
+            "hash": "dd1a6c897e2142fe6c3cc0c81a12b2da81c230c3af43deb96e7dfeaa31b82371"
         }
     },
     "homepage": "http://github.com/kcl-lang/kcl",
