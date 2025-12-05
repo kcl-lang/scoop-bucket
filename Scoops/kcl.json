@@ -6,14 +6,14 @@
             "bin": [
                 "kcl.exe"
             ],
-            "hash": "ba6f16394dae38db5594f64c44c633cb90e534c9c015bc12e9e5fa004d9e1377"
+            "hash": "41cd0979ad697a6351def6dc96b09fb4cc8101849ef19564cef36f76a3f78996"
         },
         "arm64": {
             "url": "https://github.com/kcl-lang/cli/releases/download/v0.12.2-rc.1/kcl-v0.12.2-rc.1-windows-arm64.zip",
             "bin": [
                 "kcl.exe"
             ],
-            "hash": "02f13d363599467bb3e248574221d3ab5206824c78b6b6f2ad50a3ea23de538d"
+            "hash": "dc26ae4980f5fabee906aca107853307f78d4ef537085715bf92e84ad5cab0f0"
         }
     },
     "homepage": "http://github.com/kcl-lang/kcl",
