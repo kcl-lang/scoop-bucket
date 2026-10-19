@@ -6,7 +6,7 @@
             "bin": [
                 "kcl-language-server.exe"
             ],
-            "hash": "8c61f28227fc61fb37798cb159848bfef22acc9192e038527a7d261e12e33be9"
+            "hash": "3d6db793c5c5e51731c7657f14bed529dac173e8c8035b4e9bb3b79129d1c10d"
         }
     },
     "homepage": "https://github.com/kcl-lang/kcl",
